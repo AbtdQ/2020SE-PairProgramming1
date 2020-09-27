@@ -21,12 +21,14 @@
  - commit 截图
 
 # TODO
-- Github 仓库
+- ~~Github 仓库~~
 - 需求分析书
   - 实用性、有效性、安全性、隐私性、封闭性
     - 是啥？
-- 用例图
+- ~~用例图~~
 - 界面（墨刀）
+ - 管理页面
+- 阅读
 
 # PSP
 PSP2.1 | Personal Software Process Stages | 预估耗时（分钟）|   实际耗时（分钟）
