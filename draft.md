@@ -30,6 +30,9 @@
  - 管理页面
 - 阅读
 - NADBC
+- 视频制作
+- 拍照
+- 博客撰写
 
 # PSP
 PSP2.1 | Personal Software Process Stages | 预估耗时（分钟）|   实际耗时（分钟）
@@ -77,3 +80,14 @@ Postmortem & Process Improvement Plan|事后总结, 并提出过程改进计划|
   - 身边推广，口口相传
   - 班级公示
   - 与校方合作
+
+# 工作日志
+## 9.23
+- 项目初步计划
+- TODO List 拟定
+## 9.24
+- UML 绘制用例图
+## 9.26
+- 墨刀原型绘制
+## 9.27
+- NABCD
