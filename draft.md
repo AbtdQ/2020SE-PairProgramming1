@@ -34,22 +34,22 @@
 # PSP
 PSP2.1 | Personal Software Process Stages | 预估耗时（分钟）|   实际耗时（分钟）
 --|:--:|--:|--:
-Planning|计划||
-Estimate|估计这个任务需要多少时间||         
-Development|开发||
-Analysis|需求分析 (包括学习新技术)||       
-Design Spec|生成设计文档||        
-Design Review|设计复审||        
-Coding Standard|代码规范 (为目前的开发制定合适的规范)||      
-Design|具体设计||       
-Coding|具体编码||       
-Code Review|代码复审||      
-Test|测试（自我测试，修改代码，提交修改）||       
-Reporting|报告||      
-Test Report|测试报告||      
-Size Measurement|计算工作量||        
-Postmortem & Process Improvement Plan|事后总结, 并提出过程改进计划||         
-|合计|||
+**Planning**|**计划**|60|60
+Estimate|估计这个任务需要多少时间|60|60         
+**Development**|**开发**|310|470
+Analysis|需求分析 (包括学习新技术)|60|90       
+Design Spec|生成设计文档|60|90        
+Design Review|设计复审|10|20        
+Coding Standard|代码规范 (为目前的开发制定合适的规范)|0|0      
+Design|具体设计|180|270       
+Coding|具体编码|0|0       
+Code Review|代码复审|0|0      
+**Test**|**测试（自我测试，修改代码，提交修改）**|81|46       
+Reporting|报告|60|30      
+Test Report|测试报告|10|10      
+Size Measurement|计算工作量|10|5        
+Postmortem & Process Improvement Plan|事后总结, 并提出过程改进计划|1|1        
+|**合计**||451|846
 
 # NADBC
 - N
@@ -88,3 +88,8 @@ Postmortem & Process Improvement Plan|事后总结, 并提出过程改进计划|
 - 墨刀原型绘制
 ## 9.27
 - NABCD
+## 9.28
+- 原型完善并导出
+- 原型测试
+## 9.29
+- PSP 与博客撰写
